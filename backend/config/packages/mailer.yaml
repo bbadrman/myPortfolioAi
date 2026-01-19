@@ -1,0 +1,2 @@
+symfony_mailer:
+  dsn: '%env(MAILER_DSN)%'
